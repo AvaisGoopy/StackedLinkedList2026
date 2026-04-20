@@ -24,3 +24,4 @@ Elements are inserted and removed from the head of the linked list, ensuring con
 Pop() currently does not return the removed value (can be improved)
 Size() is not yet implemented
 Uses object for data storage (could be improved with generics for type safety)
+
